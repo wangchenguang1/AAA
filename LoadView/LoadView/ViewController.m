@@ -19,7 +19,11 @@
     NSLog(@"123344");
     
     NSLog(@"1234");
+
     NSLog(@"12345");
+
+    NSLog(@"hello");
+
 }
 
 - (void)viewDidLoad {
