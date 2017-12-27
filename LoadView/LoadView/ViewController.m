@@ -17,6 +17,8 @@
 - (void)loadView{
     [super loadView];
     NSLog(@"123344");
+    
+    NSLog(@"1234");
 }
 
 - (void)viewDidLoad {
